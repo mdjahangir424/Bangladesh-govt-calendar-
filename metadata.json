@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Govt Calendar",
+  "description": "Comprehensive native Android calendar for Bangladesh featuring Gregorian, Bangla, and Hijri dates, verified government holidays from MOPA, and modern Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

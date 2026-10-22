@@ -1,0 +1,58 @@
+[
+  {
+    "id": "2027_mother_language_day",
+    "startDate": "2027-02-21",
+    "endDate": null,
+    "nameBn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস (অনিশ্চিত গেজেট)",
+    "nameEn": "Shaheed Day & Mother Language Day (Unconfirmed Gazette)",
+    "category": "GENERAL",
+    "descriptionBn": "সরকারি গেজেট এখনো আনুষ্ঠানিকভাবে প্রকাশিত হয়নি। এটি সম্ভাব্য তারিখ।",
+    "descriptionEn": "Official government gazette notification not yet issued. Tentative schedule.",
+    "sourceTitle": "জনপ্রশাসন মন্ত্রণালয় (MOPA) - অনাগত খসড়া",
+    "sourceUrl": "https://mopa.gov.bd/pages/public-holiday/",
+    "isMoonDependent": false,
+    "isVerified": false
+  },
+  {
+    "id": "2027_independence_day",
+    "startDate": "2027-03-26",
+    "endDate": null,
+    "nameBn": "স্বাধীনতা ও জাতীয় দিবস (অনিশ্চিত গেজেট)",
+    "nameEn": "Independence and National Day (Unconfirmed Gazette)",
+    "category": "GENERAL",
+    "descriptionBn": "সরকারি গেজেট এখনো আনুষ্ঠানিকভাবে প্রকাশিত হয়নি। এটি সম্ভাব্য তারিখ।",
+    "descriptionEn": "Official government gazette notification not yet issued. Tentative schedule.",
+    "sourceTitle": "জনপ্রশাসন মন্ত্রণালয় (MOPA) - অনাগত খসড়া",
+    "sourceUrl": "https://mopa.gov.bd/pages/public-holiday/",
+    "isMoonDependent": false,
+    "isVerified": false
+  },
+  {
+    "id": "2027_pahela_baishakh",
+    "startDate": "2027-04-14",
+    "endDate": null,
+    "nameBn": "পহেলা বৈশাখ ১৪৩৪ (অনিশ্চিত গেজেট)",
+    "nameEn": "Pahela Baishakh 1434 (Unconfirmed Gazette)",
+    "category": "GENERAL",
+    "descriptionBn": "সরকারি গেজেট এখনো আনুষ্ঠানিকভাবে প্রকাশিত হয়নি। এটি সম্ভাব্য তারিখ।",
+    "descriptionEn": "Official government gazette notification not yet issued. Tentative schedule.",
+    "sourceTitle": "জনপ্রশাসন মন্ত্রণালয় (MOPA) - অনাগত খসড়া",
+    "sourceUrl": "https://mopa.gov.bd/pages/public-holiday/",
+    "isMoonDependent": false,
+    "isVerified": false
+  },
+  {
+    "id": "2027_victory_day",
+    "startDate": "2027-12-16",
+    "endDate": null,
+    "nameBn": "মহান বিজয় দিবস (অনিশ্চিত গেজেট)",
+    "nameEn": "Victory Day (Unconfirmed Gazette)",
+    "category": "GENERAL",
+    "descriptionBn": "সরকারি গেজেট এখনো আনুষ্ঠানিকভাবে প্রকাশিত হয়নি। এটি সম্ভাব্য তারিখ।",
+    "descriptionEn": "Official government gazette notification not yet issued. Tentative schedule.",
+    "sourceTitle": "জনপ্রশাসন মন্ত্রণালয় (MOPA) - অনাগত খসড়া",
+    "sourceUrl": "https://mopa.gov.bd/pages/public-holiday/",
+    "isMoonDependent": false,
+    "isVerified": false
+  }
+]

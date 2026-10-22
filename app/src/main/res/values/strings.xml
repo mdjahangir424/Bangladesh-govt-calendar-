@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bangladesh Govt Calendar</string>
+    <string name="app_name_bn">বাংলাদেশ সরকারি ক্যালেন্ডার</string>
+    <string name="creator_name">Md Jahangir Alam</string>
+    <string name="creator_phone">+8801778600028</string>
+    <string name="creator_email">mdjahangiralam2528@gmail.com</string>
+    
+    <string name="attribution_bn_creator">অ্যাপটির নির্মাতা ও স্বত্বাধিকার দাবিদার: Md Jahangir Alam</string>
+    <string name="attribution_bn_contact">যোগাযোগ: +8801778600028</string>
+    <string name="attribution_bn_email">ইমেইল: mdjahangiralam2528@gmail.com</string>
+    
+    <string name="attribution_en_creator">Created by Md Jahangir Alam</string>
+    <string name="attribution_en_rights">Creator\'s ownership claim and copyright notice are subject to applicable law and third-party rights.</string>
+    <string name="copyright_notice">© 2026 Md Jahangir Alam. All rights reserved, subject to applicable law and third-party rights.</string>
+    
+    <string name="disclaimer_gov_independent">This application is an independently developed open-source utility by Md Jahangir Alam. It is NOT an official government app and has no official affiliation with or endorsement by the Government of Bangladesh. All government holiday schedules are referenced from official public circulars issued by the Ministry of Public Administration (MOPA).</string>
+    <string name="disclaimer_gov_independent_bn">এই অ্যাপটি Md Jahangir Alam কর্তৃক স্বাধীনভাবে নির্মিত একটি নির্ভরযোগ্য ক্যালেণ্ডার অ্যাপ্লিকেশন। এটি কোনো আনুষ্ঠানিক সরকারি অ্যাপ নয় এবং বাংলাদেশ সরকারের সাথে কোনো প্রত্যক্ষ বা পরোক্ষ প্রাতিষ্ঠানিক সম্পৃক্ততা নেই। সরকারি ছুটির তথ্যাবলি জনপ্রশাসন মন্ত্রণালয় (MOPA) এর সরকারি প্রজ্ঞাপন হতে সংগৃহীত।</string>
+</resources>
